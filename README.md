@@ -11,7 +11,7 @@
 
 
 # How can i get this Bot/Tool or to report an account ❓
-  * Join our telegram here > <a href="https://t.me/igreport7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  * Join our telegram here > <a href="https://t.me/xyteee"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   * Check all the proof.
   * Below each video you will see our contact starting with @ contact us on that username.
 </pre>
