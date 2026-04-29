@@ -1,7 +1,7 @@
 🚨 Instagram Reporting Bot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XYTEEE/IGReportTools/refs/heads/main/file_0000000089e072089e6552b1ef1912a1.png" width="250" height="250" alt="Instagram Reporting Bot Logo">
+  <img src="https://raw.githubusercontent.com/XYTEEE/IGReportTools/refs/heads/main/file_0000000089e072089e6552b1ef1912a1.png" width="1774" height="887" alt="Instagram Reporting Bot Logo">
 </p><h1 align="center">INSTAGRAM ACCOUNT REPORTING BOT</h1><h3 align="center">Owner: <strong>XYTEEE</strong></h3><p align="center">
   Advanced Instagram account reporting solution for handling spam, impersonation, scam accounts, and harmful profiles efficiently.
 </p><p align="center">
