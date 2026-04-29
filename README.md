@@ -8,11 +8,9 @@
   <a href="https://t.me/xyteee">
     <img src="https://img.shields.io/badge/Telegram-Contact%20Owner-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://t.me/igreport7">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
----
+  <a href="https://wa.me/+8801926890544">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
 📌 What Is an Instagram Reporting Bot?
 
