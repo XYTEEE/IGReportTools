@@ -1,7 +1,7 @@
 🚨 Instagram Reporting Bot
 
 <p align="center">
-  <img src="logo.png" width="250" height="250" alt="Instagram Reporting Bot Logo">
+  <img src="https://raw.githubusercontent.com/XYTEEE/IGReportTools/refs/heads/main/file_0000000089e072089e6552b1ef1912a1.png" width="250" height="250" alt="Instagram Reporting Bot Logo">
 </p><h1 align="center">INSTAGRAM ACCOUNT REPORTING BOT</h1><h3 align="center">Owner: <strong>XYTEEE</strong></h3><p align="center">
   Advanced Instagram account reporting solution for handling spam, impersonation, scam accounts, and harmful profiles efficiently.
 </p><p align="center">
@@ -109,12 +109,12 @@ Counter inauthentic attacks from spam networks.
 
 Telegram Owner: @xyteee
 
-Telegram Channel: @igreport7
+website: https://xyteee.com
 
 
 📌 Steps:
 
-1. Join the Telegram channel
+1. Visit Website
 
 
 2. Review available proof/resources
@@ -183,4 +183,4 @@ Follow Owner XYTEEE
 ---
 
 <p align="center">
-  <strong>© 2026 XYTEEE
+  <strong>© 2024 XYTEEE
